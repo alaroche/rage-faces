@@ -1,1 +1,19 @@
-This is my README.  There are many like it, but this one is mine.
+Installation 
+
+
+Pidgin	
+	- Put everything in your /emotes directory and restart Pidgin, find "rage faces" under Themes.
+
+Adium
+	Follow these 6 simple steps
+
+	Before: Close ADIUM
+		1) unzip the file
+		2) place it in Applications/Adium/Resources/Emoticons
+		    - (do a right click -> view resources, on Adium)
+			    - you should see a bunch of other similar looking files with extension .adiumemoticonset
+		3) open Adium
+		4) Find ragefaces in emoticons theme, make sure it's the only one that's checked
+		5) ?????
+		6) Le profit
+
